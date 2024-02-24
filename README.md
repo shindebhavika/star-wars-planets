@@ -1,5 +1,6 @@
 # React + Vite
 
+ THIS fully responsive web application
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
@@ -50,16 +51,22 @@ The project structure is organized for easy navigation and maintenance:
 - **src/pages:** Houses main application pages.
 - **src/styles:** Holds styling files with Tailwind CSS and Bootstrap customization.
 
-![Planets Explorer Logo]()
 
 
-project looks like:
-
+project looks like :
+1)desktop
 ![home-page](https://github.com/shindebhavika/star-wars-planets/assets/103195075/ee02a454-d2d4-4826-85fa-4f5714b433fa)
 ![home-page2](https://github.com/shindebhavika/star-wars-planets/assets/103195075/fd8ee903-8fb3-44ea-a2d4-0c1e1c4a53a7)
 ![Planet-detail](https://github.com/shindebhavika/star-wars-planets/assets/103195075/6ca58be4-3753-4595-b356-6635bcfb9d17)
 ![Resident](https://github.com/shindebhavika/star-wars-planets/assets/103195075/7c0cc2bf-8487-40ce-b1e4-85e5fde76e8f)
 
+
+
+2)mobile view
+
+![WhatsApp Image 2024-02-24 at 17 03 36](https://github.com/shindebhavika/star-wars-planets/assets/103195075/ef635e09-2a92-4340-9f8e-dbc083f3fc37)
+![WhatsApp Image 2024-02-24 at 17 03 57](https://github.com/shindebhavika/star-wars-planets/assets/103195075/e18891cb-f702-483f-b01b-747116c3883f)
+![WhatsApp Image 2024-02-24 at 17 03 46](https://github.com/shindebhavika/star-wars-planets/assets/103195075/57f84af9-7e89-4fef-a8b6-ede3627811dd)
 
 src/components: Contains reusable React components.
 src/data: Manages data using Context API hooks.
