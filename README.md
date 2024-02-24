@@ -53,6 +53,12 @@ The project structure is organized for easy navigation and maintenance:
 ![Planets Explorer Logo]()
 
 
+project looks like:
+
+![home-page](https://github.com/shindebhavika/star-wars-planets/assets/103195075/ee02a454-d2d4-4826-85fa-4f5714b433fa)
+![home-page2](https://github.com/shindebhavika/star-wars-planets/assets/103195075/fd8ee903-8fb3-44ea-a2d4-0c1e1c4a53a7)
+![Planet-detail](https://github.com/shindebhavika/star-wars-planets/assets/103195075/6ca58be4-3753-4595-b356-6635bcfb9d17)
+![Resident](https://github.com/shindebhavika/star-wars-planets/assets/103195075/7c0cc2bf-8487-40ce-b1e4-85e5fde76e8f)
 
 
 src/components: Contains reusable React components.
